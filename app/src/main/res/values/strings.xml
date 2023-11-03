@@ -1,0 +1,545 @@
+<resources>
+    <string name="app_name">do N key</string>
+
+    <!--    Account Page-->
+    <string name="manage_account">Manage Account</string>
+    <string name="user_name">User Name</string>
+    <string name="phone_number_text">Phone Number</string>
+    <string name="email_id_text">Email Id</string>
+    <string name="sample_mail">sample@gmail.com</string>
+    <string name="gender_text">Gender</string>
+    <string name="date_of_birth_text">Date of Birth</string>
+    <string name="home_address_text">Home Address</string>
+    <string name="sample_address">Dindigul, Tamilnadu</string>
+    <string name="office_address_text">Office Address</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+
+    <string name="no_network_connection_available">No Network connection Available</string>
+    <string name="refresh">Refresh</string>
+
+
+    <!--    Buy Delivery Category-->
+    <string name="selected_products">Selected Products</string>
+    <string name="no_alcohol_note">Delivery of alcohol or any illegal items is prohibited by law.</string>
+    <string name="food_items">Food Items</string>
+    <string name="medicines">Medicines</string>
+    <string name="documents_and_books">Documents and Books</string>
+    <string name="electronic_items">Electronic Items</string>
+    <string name="clothes">Clothes</string>
+    <string name="items_for_repair">Items for Repair</string>
+    <string name="business_deliveries">Business Deliveries</string>
+    <string name="others">Others</string>
+    <string name="done">Done</string>
+    <string name="product_descrption">Product Descrption</string>
+    <string name="nothing_is_selected">Nothing is Selected</string>
+
+    <!--    Buy delivery Fair Page-->
+    <string name="enter_pickup_location">Enter Pickup Location</string>
+    <string name="enter_destination_location">Enter Destination Location</string>
+
+    <!--    Cancellation Page -->
+    <string name="cancel_reason_1">Found Better price elsewhere</string>
+    <string name="cancel_reason_2">Asked to pay Extra</string>
+    <string name="cancel_reason_3">Drop location denied</string>
+    <string name="cancel_reason_4">Low rating driver</string>
+    <string name="cancel_reason_5">Wrong pickup location</string>
+    <string name="cancel_reason_6">Asked to cancel &amp; take offline ride</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="why_cancel">Why do you want to cancel?</string>
+    <string name="enter_reason">Enter Reason</string>
+    <string name="send">Send</string>
+
+    <!--    Chat Page-->
+    <string name="messages">Messages</string>
+    <string name="always_ask_recipt_before_paying">Always ask recipt before paying…</string>
+    <string name="type_a_message">Type a Message</string>
+
+    <!--    Driver Tips-->
+    <string name="tips_the_driver">Tips the Driver</string>
+    <string name="driver_name">Smith Gray</string>
+    <string name="rating">4.9</string>
+    <string name="one_rupee">₹1</string>
+    <string name="two_rupee">₹2</string>
+    <string name="three_rupee">₹3</string>
+    <string name="four_rupee">₹4</string>
+    <string name="five_rupee">₹5</string>
+    <string name="ten_rupee">₹10</string>
+    <string name="choose_other_amount">Choose Other Amount</string>
+    <string name="think_about_service">What do you think about the service?</string>
+    <string name="communication">Communication</string>
+    <string name="behaviour">Behaviour</string>
+    <string name="location_finder">Location Finder</string>
+    <string name="ontime">Ontime</string>
+    <string name="maybe_next_time">Maybe next time</string>
+
+    <!--    Favourite Page-->
+    <string name="favourites">Favourites</string>
+
+    <!--    Help Center Page-->
+    <string name="help_center">Help Center</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="lorem_ipsum_2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</string>
+
+    <!--    Login Page-->
+    <string name="signin_small">Sign In</string>
+    <string name="signin">SIGN IN</string>
+    <string name="welcome_back_text">Welcome Back! Enter your Existing Account</string>
+    <string name="phone_or_mail">Phone / E-mail *</string>
+    <string name="password_must">Password *</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login_with_otp">Login With OTP</string>
+    <string name="using_social_account">Or connect using Social Account</string>
+    <string name="dont_have_an_account">Don’t have an account?&#160;</string>
+
+    <!--    Otp Verification Page-->
+    <string name="verification">Verification</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="covered_number">+9190* * * * *194</string>
+    <string name="please_enter_correct_otp">Please enter correct OTP</string>
+    <string name="didn_t_get_code_yet">Didn\'t Get code yet?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="your_phone_number_is_safe_with_us">Your phone number is safe with us</string>
+    <string name="verify">Verify</string>
+
+    <!--    Payment Method-->
+    <string name="payment_method">Payment Method</string>
+    <string name="payment_method_colon">Payment Method : </string>
+    <string name="choose_payment_method">Choose Payment Method</string>
+    <string name="donkey_wallet">do N key Wallet</string>
+    <string name="available_balance">Available Balance : 0.00</string>
+    <string name="cash">Cash</string>
+    <string name="available_after_booking">Below payment methods are available after your booking confirmation</string>
+    <string name="credit_or_debit_card">Credit or Debit Card</string>
+    <string name="upi">UPI</string>
+    <string name="net_banking">Net Banking</string>
+    <string name="paypal">Paypal</string>
+
+    <!--    Rating Page-->
+    <string name="rate_your_trip">Rate Your Trip</string>
+    <string name="how_is_your_trip">How is Your Trip?</string>
+    <string name="write_your_feedback">Write your Feedback</string>
+    <string name="trip_detail">Trip Detail</string>
+    <string name="skate_park">Skate Park</string>
+    <string name="home">Home</string>
+    <string name="payment_detail">Payment Detail</string>
+    <string name="trip_expenses">Trip Expenses</string>
+    <string name="discount_voucher">Discount Voucher</string>
+    <string name="total">Total</string>
+    <string name="submit">Submit</string>
+
+    <!--    Search Page-->
+    <string name="type_to_search_location">Type to Search Location</string>
+    <string name="select_from_map">Select from Map</string>
+
+    <!--    Settings Page-->
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Change Theme</string>
+    <string name="select_language">Select Language</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+
+    <!--    Signin Page-->
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="name_must">Name *</string>
+    <string name="email_id_must">Email ID *</string>
+    <string name="phone_number_must">Phone Number *</string>
+    <string name="already_have_an_account">Already have an Account?&#160;</string>
+    <string name="signup_small">Sign Up</string>
+    <string name="signup">SIGN UP</string>
+
+    <!--    Signin Successful-->
+    <string name="you_are_ready_to_go">You are ready to go.!</string>
+    <string name="thanks_for_signin">Thanks for taking your time to create account with us. Now this is the fun part Let’s explore the app.</string>
+    <string name="get_started">Get Started</string>
+
+    <!--    Trip Details-->
+    <string name="proudly_made_in_india">Proudly made in India</string>
+    <string name="bike_number">TN01AA1000</string>
+    <string name="bike_model">Splender</string>
+    <string name="your_review">Your Review</string>
+    <string name="sample_feedback">Good Service, Friendly driver \n maintained the car Well Cleaned</string>
+
+    <!--    Trip History-->
+    <string name="trip_history">Trip History</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <!--    voucher Page-->
+    <string name="vouchers">Vouchers</string>
+    <string name="have_a_promo_code_enter_it_here">Have a Promo code? Enter it Here</string>
+    <string name="vouchers_details">Vouchers Details</string>
+
+    <!--    Add Info Dialog-->
+    <string name="things_to_keep_in_mind">Things to Keep in Mind</string>
+    <string name="things_to_keep_in_mind_1">Item should fit in the Backpack</string>
+    <string name="things_to_keep_in_mind_2">Keep the items packed and ready for pick up</string>
+    <string name="things_to_keep_in_mind_3">Avoid sending illegal, fragile, or high value items</string>
+    <string name="pickup">PickUp</string>
+    <string name="name_colon">Name :</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="phone_colon">Phone :</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="landmark_colon">Landmark :</string>
+    <string name="enter_landmark">Enter Landmark</string>
+    <string name="order_no_product_details_colon">Order no/ Product Details :</string>
+    <string name="write_a_note_to_driver">Write a note to Driver</string>
+
+    <!--    Booking Conformation Design-->
+    <string name="your_otp">Your OTP</string>
+    <string name="sample_otp">1234</string>
+    <string name="rider_speaks_colon">Rider Speaks :</string>
+    <string name="tamil_english">Tamil, English</string>
+    <string name="distance">Distance</string>
+    <string name="sample_distance">1.4Km</string>
+    <string name="travel_time">Travel Time</string>
+    <string name="sample_travel_time">6 min</string>
+    <string name="trip_price">Trip Price</string>
+    <string name="rating_text">Rating</string>
+    <string name="driving_time">Driving Time</string>
+    <string name="sample_driving_time">800Hrs</string>
+    <string name="experiences">Experiences</string>
+    <string name="sample_experiences">7 Months</string>
+    <string name="emergency_call">Emergency Call</string>
+
+    <!--    Buy Delivery Fair Design-->
+    <string name="price_for_this_delivery">Price for this Delivery</string>
+    <string name="change_payment_method">Change Payment Method</string>
+    <string name="book_the_ride">Book the Ride</string>
+    <string name="you_can_do_online_payment_while_on_ride_as_well">You can do online payment while on ride as well</string>
+    <string name="finding_the_perfect_driver_for_you">Finding the perfect driver for you 😊</string>
+    <string name="cancel">Cancel</string>
+    <string name="driver_not_available">Sorry, Driver not available at this moment</string>
+    <string name="ok">OK</string>
+    <string name="try_again">Try Again</string>
+    <string name="your_pickup_and_drop_locations_are_same">Your Pickup and drop locations are same</string>
+    <string name="please_choose_a_different_location_to_book_a_ride">Please choose a different location to book a ride</string>
+    <string name="okay">OKAY</string>
+    <string name="service_not_available_here">Service Not Available Here</string>
+    <string name="change_location">Change Location</string>
+    <string name="prime_business_partner">Prime Business Partner</string>
+    <string name="business_partner_not_available">Our business partner is not available in this area. If you would like to start a service click on prime business partner</string>
+
+    <!--    Buy delivery location Design-->
+    <string name="product_food_buy_and_delivery">product/Food buy and delivery</string>
+    <string name="product_picking_point">product picking point</string>
+    <string name="product_dropping_point">product dropping point</string>
+
+    <!--    cancel Bottom sheet-->
+    <string name="cancel_ride">Cancel Ride?</string>
+    <string name="are_you_sure_you_want_to_cancel_the_current_order">Are you sure you want to cancel the current order?</string>
+    <string name="wait_a_bit_more">Wait a bit more</string>
+
+    <!--    cancel conformation design-->
+    <string name="book_another_ride">Do you want to book another, right?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <!--    Dialog custom layout-->
+    <string name="products">Products</string>
+    <string name="sub_products">Sub Products</string>
+    <string name="add_task_details_optional">Add Task Details (Optional)</string>
+    <string name="type_details">Type Details</string>
+    <string name="for_orders_involving_payments_please_pay_to_the_store_or_seller_directly">For orders involving payments, please pay to the store or seller directly</string>
+
+    <!--    fare details design-->
+    <string name="total_estimated_fare_prices_include_taxes">Total Estimated fare prices include taxes</string>
+    <string name="ride_fare">Ride Fare</string>
+    <string name="discount">Discount</string>
+    <string name="price_calculation_1"><![CDATA[* The price & discounts both are set by our prime business partner in your local area. This price range may vary from the following kms 5, 8 and 10. \n If you find the price is absurd then kindly reach us on our official platform]]></string>
+    <string name="price_calculation_2">* Rider never demands an extra money and the above price is limited to pickup and drop location only, as per company policy</string>
+
+    <!--    fragment Home-->
+    <string name="where_are_you_going_now">Where are you going now?</string>
+    <string name="my_balance">My Balance</string>
+    <string name="top_up">TOP UP</string>
+    <string name="see_my_history">See my history</string>
+    <string name="bike_taxi">Bike Taxi</string>
+    <string name="a_z_delivery_multi_booking">A-Z Delivery &amp; \n Multi-Booking</string>
+    <string name="buy_delivery">buy &amp; delivery</string>
+    <string name="buy_and_delivery">Buy and Delivery</string>
+    <string name="transport">Transport</string>
+    <string name="view_all">View All</string>
+    <string name="get_30_off_for_nfirst_users">Get 30% Off For \nFirst Users!</string>
+    <string name="get_it_now">Get It Now</string>
+
+    <!--    fragment profile-->
+    <string name="my_account">My Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_orders">My Orders</string>
+    <string name="promo">Promo</string>
+    <string name="language">Language</string>
+    <string name="help">Help Center</string>
+    <string name="general">General</string>
+    <string name="complete_your_profile_to_stand_out">Complete your Profile to Stand Out</string>
+    <string name="english">English</string>
+
+    <!--    History Design-->
+    <string name="starting_point">Starting Point</string>
+    <string name="destination_point">Destination Point</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="price">Price</string>
+
+    <!--    Info list dialog-->
+    <string name="update">Update</string>
+    <string name="multibooking_point_1">Multibooking Point 1</string>
+    <string name="multibooking_point_2">Multibooking Point 2</string>
+    <string name="multibooking_point_3">Multibooking Point 3</string>
+    <string name="multibooking_point_4">Multibooking Point 4</string>
+    <string name="dropoff_location">Dropoff Location</string>
+
+    <!--    Location page second-->
+    <string name="where_are_you_going_today">Where are you going today?</string>
+    <string name="choose_pickup_point">Choose Pickup Point</string>
+    <string name="choose_destination_point">Choose Destination Point</string>
+
+    <!--    Logout Bottom Sheet-->
+    <string name="do_you_really_want_to_logout">Do you really want to logout?</string>
+
+    <!--    Multi Location Second-->
+    <string name="add_stop">+ Add Stop</string>
+
+    <!--    Multibooking choose design-->
+    <string name="brighten_your_day_with_our_delivery">Brighten Your Day with Our Delivery…</string>
+    <string name="simplified_route">[Simplified Route]</string>
+
+    <!--    penalty dialog screen-->
+    <string name="conform_cancel">Our rider is already on the way towards your location, sure do you want to cancel?</string>
+    <string name="charge_for_cancel">You might be charged a small cancellation fee for this ride</string>
+    <string name="cancel_ride_1">Cancel Ride</string>
+    <string name="go_back">Go Back</string>
+
+
+    <!--    nav menu-->
+    <string name="account">Account</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_offer">Offer</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="google_login">Login With Google</string>
+    <string name="mobile_login">Connect with Phone Number</string>
+
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy">Privacy Policy</string>
+
+
+    <string name="title_activity_location_page">locationPage</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name="driver_name_1">Driver 1</string>
+    <string name="driver_name_2">Driver 2</string>
+    <string name="driver_name_3">Driver 3</string>
+    <string name="driver_name_4">Driver 4</string>
+    <string name="driver_name_5">Driver 5</string>
+    <string name="driver_name_6">Driver 6</string>
+    <string name="driver_name_7">Driver 7</string>
+    <string name="driver_name_8">Driver 8</string>
+
+    <string name="offer_1">offer 1</string>
+    <string name="offer_2">offer 2</string>
+    <string name="offer_3">offer 3</string>
+    <string name="offer_4">offer 4</string>
+    <string name="offer_5">offer 5</string>
+    <string name="offer_6">offer 6</string>
+    <string name="offer_7">offer 7</string>
+    <string name="offer_8">offer 8 </string>
+
+    <string name="large_text">
+
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="or">Or</string>
+    <string name="labeled">Labeled</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="select_location_on_map">Select Location on Map</string>
+    <string name="office">Office</string>
+    <string name="logout">Logout</string>
+    <string name="google_login_successful">Google Login Successful!!!</string>
+    <string name="price_for_this_ride">Price for this Ride</string>
+    <string name="favourite_address">Favourite Address</string>
+    <string name="place">Place</string>
+
+    <string name="want_to_go_back">"Are you sure, do you want to go back? "</string>
+    <string name="lose_data_warning">You will lose data entered on this Screen</string>
+    <string name="ok_continue">OK,Continue</string>
+    <string name="loading">Loading…</string>
+    <string name="booking_failed">Booking Failed</string>
+    <string name="read_contacts_permission">Read Contacts permission</string>
+    <string name="give_access_to_contact">Please enable access to contacts.</string>
+    <string name="no_contact_permission">You have disabled a contacts permission</string>
+    <string name="please_enter_name">Please Enter the Name</string>
+    <string name="please_enter_phone">Please enter the Phone Number</string>
+    <string name="phone_ten_digit">Phone Number Must be 10 Digit</string>
+    <string name="please_enter_landmark">Please enter the Landmark</string>
+    <string name="please_enter_product_detail">Please type something in Product Details field</string>
+    <string name="info_added">Info Added</string>
+    <string name="total_fare">Total Fare</string>
+    <string name="tax">Tax</string>
+    <string name="waiting_for_the_driver_to_accept_the_order">Waiting for the Driver to Accept the Order</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="driver_not_available_text">Driver is not available in your current location, please click on \'try again\' to fetch nearby driver and approximate waiting time 2 to 5 minutes</string>
+    <string name="are_you_sure_you_want_to_cancel_the_current_booking">Are you sure you want to cancel the current booking?</string>
+    <string name="banners">Banners</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="by_logging_in_you_agree_to_accept_our">By logging in, you agree to accept our&#160;</string>
+    <string name="by_creating_you_agree_to_accept_our">By creating an account, you agree to accept our&#160;</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="and">&#160;and&#160;</string>
+    <string name="terms_of_services"><u>Terms of Services</u></string>
+    <string name="retry">Retry</string>
+    <string name="no_stay">No, Stay</string>
+    <string name="join_as_a">Join as a&#160;</string>
+    <string name="kick_start_your_business_with_us">Kick start your business with us!</string>
+    <string name="the_innovative_indian_brand_revolutionizing_nbike_taxi_and_delivery_business">The innovative Indian brand revolutionizing \nBike taxi and delivery business</string>
+    <string name="contact">Contact :-</string>
+    <string name="oops_nnearest_rider_is_busy_retry_for_more_riders">Oops! \nNearest rider is busy. Retry for more riders!</string>
+    <string name="join_prime_business_partner">Join Prime Business Partner</string>
+    <string name="enter_pincode_check_area_availability">Enter Pincode, check area Availability</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="check_business_partner_availability">Check business partner availability</string>
+    <string name="trip_started_enjoy_the_ride">Trip Started. Enjoy the Ride!</string>
+    <string name="help_desk">Help Desk</string>
+
+
+    <!--    Help Center Page-->
+    <string name="help_desk_text">Stay connected with us on social media platforms to stay updated with the latest news and offers, don\'t forget to subscribe to our newsletter for even more exclusive updates!</string>
+    <string name="facebook_link">Go to <a href="https://www.facebook.com/profile.php?id=100095028310069&amp;mibextid=ZbWKwL">Facebook</a></string>
+    <string name="instagram_link">Go to <a href="https://instagram.com/donkey_deliveries?igshid=MzRlODBiNWFlZA==">Instagram</a></string>
+    <string name="twitter_link">Go to <a href="https://twitter.com/doNkey_Delivery">Twitter</a></string>
+    <string name="youtube_link">Go to <a href="https://youtube.com/@doNkey_Delivery">YouTube</a></string>
+    <string name="official_website_link_1"><a href="https://www.donkeydeliveries.in">https://www.donkeydeliveries.in</a></string>
+    <string name="official_website_link_2"><a href="https://www.donkeydeliveries.com">https://www.donkeydeliveries.com </a></string>
+    <string name="for_more_information_contact_us_on">For more information, contact us on:</string>
+    <string name="customer_support">Customer support : </string>
+    <string name="general_enqiuries">General Enquiries: </string>
+    <string name="our_official_websites">Our Official websites :</string>
+
+    <!--    Location permission dialog content - 1-->
+    <string name="do_n_key_collects_location_data_to_enable_the_following_features_even_when_the_app_is_closed_or_not_in_use">do N key collects location data to enable the following features, even when the app is closed or not in use:</string>
+    <string name="seamless_navigation_for_riders_to_reach_your_location_efficiently">* Seamless navigation for riders to reach your location efficiently.</string>
+    <string name="accurate_distance_calculation_for_transparent_fare_pricing">* Accurate distance calculation for transparent fare pricing.</string>
+
+    <!--    Location permission dialog content - 2-->
+    <string name="live_driver_tracking_real_time_tracking_of_drivers_positions_on_the_map_as_they_approach_your_pickup_location">*Live Driver Tracking: Real-time tracking of drivers\' positions on the map as they approach your pickup location.</string>
+    <string name="do_n_key_collects_location_data_to_provide">\'do N key\' collects location data to provide:</string>
+    <string name="seamless_navigation_accurate_turn_by_turn_directions_for_efficient_travel">*Seamless Navigation: Accurate turn-by-turn directions for efficient travel.</string>
+    <string name="fare_calculation_transparent_pricing_based_on_accurate_distance_data">*Fare Calculation: Transparent pricing based on accurate distance data.</string>
+    <string name="rest_assured_your_location_data_is_used_only_for_these_purposes_and_is_never_shared_with_others_we_prioritize_your_privacy_and_data_security_if_you_see_a_coupon_ads_in_our_app_please_note_that_location_data_may_also_be_used_to_provide_relevant_ads_and_support_advertising_efforts">Rest assured, your location data is used only for these purposes and is never shared with others. We prioritize your privacy and data security. If you see a coupon ads in our app, please note that location data may also be used to provide relevant ads and support advertising efforts.</string>
+
+    <!--    Location permission dialog content - 2-->
+
+    <string name="do_n_key_collects_and_uses_location_data_in_the_background_to_enhance_your_experience_with_the_following_features">do N key collects and uses location data in the background to enhance your experience with the following features:</string>
+    <string name="we_prioritize_your_privacy_and_data_security_your_location_data_is_solely_used_for_these_purposes_and_is_never_shared_with_third_parties">We prioritize your privacy and data security. Your location data is solely used for these purposes and is never shared with third parties.</string>
+    <string name="by_tapping_allow_you_provide_consent_for_collecting_location_data_to_power_these_essential_features_if_you_encounter_a_coupon_ad_in_our_app_please_note_that_location_data_may_also_be_used_to_provide_relevant_coupon_ads_and_support_advertising_efforts">By tapping \'Allow permission\',  you provide consent for collecting location data to power these essential features. If you encounter a coupon ad in our app, please note that location data may also be used to provide relevant coupon ads and support advertising efforts.</string>
+
+    <string name="privacy_and_tc_text">By logging in, you agree to accept our <a href="http://donkeydeliveries.com/privacypolicyandcookies"><font fgcolor='#000000'> Privacy Policy</font></a> and <a href="http://donkeydeliveries.com/tc">Terms of service</a></string>
+    <string name="privacy_and_tc_text_signup">By creating an account, you agree to accept our <a href="http://donkeydeliveries.com/privacypolicyandcookies"><font fgcolor='#000000'> Privacy Policy</font></a> and <a href="http://donkeydeliveries.com/tc">Terms of service</a></string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
